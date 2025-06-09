@@ -1,0 +1,12 @@
+{
+  "Name": "Click and Tap",
+  "Owner": "Hadi Skeini",
+  "Description": "A filter that allows triggering pen button clicks only when tapping the pen.",
+  "PluginVersion": "1.0.0.0",
+  "SupportedDriverVersion": "0.6.5.1",
+  "RepositoryUrl": "https://github.com/hadiskeini/ClickAndTap",
+  "DownloadUrl": "https://github.com/hadiskeini/ClickAndTap/releases/download/1.0.0.0/ClickAndTap.zip",
+  "CompressionFormat": "zip",
+  "SHA256": "",
+  "LicenseIdentifier": "GPL-3.0-only"
+}
