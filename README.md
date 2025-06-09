@@ -1,10 +1,10 @@
 # Click and Tap Plugin for OpenTabletDriver
 
-A plugin for OpenTabletDriver that enhances tablet input functionality by providing click and tap features, as is available in the official Wacom drivers.
+A plugin for OpenTabletDriver that enhances tablet input functionality by providing a click and tap funcitonality, as is known from official Wacom drivers.
 
 ## Features
 
-- **Tap Support**: Enables tap-to-click functionality for two pen buttons defined in the Pen Settings 
+- **Tap Support**: Enables tap-to-click functionality for (currently) two pen buttons defined in the Pen Settings 
 - **Drag Support**: Maintains click state during drag operations
 
 ## Contributing
